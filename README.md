@@ -7,8 +7,11 @@ A entrega final do Projeto pode ser encontrada com o comentário de envio com o 
 Contribuições de cada membro do grupo:
 
 João Antônio Gomes - Kickoff do projeto e análise exploratória
+
 Mateus Ruggero - Gráfico da árvore de decisão, aplicação do modelo escolhido no modelo total e plot dos resultados 
+
 Pedro Lacerda - Random Forest e relatório
+
 Julia Toyama - Regression tree e relatório
 
 Todas as decisões e etapas foram realizadas com a presença de todos durante as aulas estúdio. Fazendo com que todos sejam relevantes para o projeto.
